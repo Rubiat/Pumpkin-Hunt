@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 0ea14d92f1e02c740a995f1d1d1f0cfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7706478825571988582
+    second: Pumpkin1_part1
+  - first:
+      213: -7725885909124717828
+    second: Pumpkin4_part1
+  - first:
+      213: 1501600168438400099
+    second: Pumpkin7_part1
+  - first:
+      213: -674706123208689312
+    second: Pumpkin2_part1
+  - first:
+      213: -1978558251609090760
+    second: Pumpkin5_part1
+  - first:
+      213: 844496346716777644
+    second: Pumpkin6_part1
+  - first:
+      213: 1936592713099376536
+    second: Pumpkin1_part2
+  - first:
+      213: 7302658119348543606
+    second: Pumpkin4_par2
+  - first:
+      213: -2933047376089923146
+    second: Pumpkin7_part2
+  - first:
+      213: 174679037067084839
+    second: Pumpkin2_part2
+  - first:
+      213: -2115239964508295981
+    second: Pumpkin4_part2
+  - first:
+      213: 6181838261562987185
+    second: Pumpkins5_part2
+  - first:
+      213: -743923105033646957
+    second: Pumpkin6_part2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pumpkin1_part1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1231
+        width: 366
+        height: 809
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664b94349a9e2fa60800000000000000
+      internalID: 7706478825571988582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin4_part1
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1337
+        width: 313
+        height: 703
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ec6bf2b328c490800000000000000
+      internalID: -7725885909124717828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin7_part1
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1336
+        width: 312
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364007ab561c6d410800000000000000
+      internalID: 1501600168438400099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin2_part1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 672
+        width: 366
+        height: 540
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0697d5e0b56f2a6f0800000000000000
+      internalID: -674706123208689312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin4_part1
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 640
+        width: 389
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ec6bf2b328c490800000000000000
+      internalID: -7725885909124717828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin5_part1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 355
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8351c65c0cfba84e0800000000000000
+      internalID: -1978558251609090760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin6_part1
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 79
+        width: 369
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac2b28f3f048bb00800000000000000
+      internalID: 844496346716777644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin1_part2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1231
+        width: 340
+        height: 809
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f5e2efc820ea10800000000000000
+      internalID: 1936592713099376536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin4_par2
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1337
+        width: 316
+        height: 703
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67064ef4ed0485560800000000000000
+      internalID: 7302658119348543606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin7_part2
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1337
+        width: 317
+        height: 701
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1c4ce83f8bb47d0800000000000000
+      internalID: -2933047376089923146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin2_part2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 673
+        width: 344
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7244712a8a59c6200800000000000000
+      internalID: 174679037067084839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin4_part2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 640
+        width: 392
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dce5c4957825a2e0800000000000000
+      internalID: -2115239964508295981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkins5_part2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 103
+        width: 353
+        height: 549
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b25167652d4ac550800000000000000
+      internalID: 6181838261562987185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin6_part2
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 79
+        width: 369
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c8340a0ed0da5f0800000000000000
+      internalID: -743923105033646957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
